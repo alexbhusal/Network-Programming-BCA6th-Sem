@@ -1,6 +1,7 @@
+package Unit2_IP;
+
 import java.io.IOException;
 import java.net.InetAddress;
-import java.net.UnknownHostException;
 
 public class IPadd {
     public static void main(String[] args) {
